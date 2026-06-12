@@ -8,7 +8,7 @@ A machine learning project that classifies news as real or fake with a simple St
 - Machine Learning based prediction
 - Fast and easy to use
 
-## Technologies Used
+## Technologies Used   
 - Python
 - Streamlit
 - Pandas
