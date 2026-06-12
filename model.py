@@ -9,7 +9,7 @@ from sklearn.metrics import accuracy_score
 # Load dataset
 data = pd.read_csv("news.csv")
 
-# Input and output
+# Input and output  
 x = data["text"]
 y = data["label"]
 
