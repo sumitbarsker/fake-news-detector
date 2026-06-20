@@ -3,7 +3,7 @@ import pickle
 
 # Load model and vectorizer 
 model = pickle.load(open("fake_news_model.pkl", "rb")) 
-vectorizer = pickle.load(open("vectorizer.pkl", "rb"))
+vectorizer = pickle.load(open("vectorizer.pkl", "rb")) 
 
 # Title
 st.title("Fake News Detection System")
