@@ -3,7 +3,7 @@
 A machine learning project that classifies news as real or fake with a simple Streamlit interface.
 
 ## Features
-- Detects fake and real news articles
+- Detects fake and real news articles 
 - User-friendly Streamlit interface
 - Machine Learning based prediction
 - Fast and easy to use
